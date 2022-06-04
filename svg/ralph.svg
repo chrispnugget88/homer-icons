@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="155.3mm" height="155.31586mm" viewBox="0 0 550.3 550.33177" id="svg4309" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <circle style="fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4859" cx="275" cy="275.332" r="75"/>
+    <circle cy="475.332" cx="475" id="circle4861" style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" r="75"/>
+    <circle style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle4174" cx="75" cy="475.332" r="75"/>
+    <circle cy="275.332" cx="75" id="circle4176" style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" r="75"/>
+    <text id="text4178" y="-204.638" x="-320" style="font-style: normal; font-weight: normal; font-size: 152px; line-height: 125%; font-family: sans-serif; letter-spacing: 0px; word-spacing: 0px; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: none; stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; white-space: pre;"><tspan y="-204.638" x="-320" id="tspan4180" style="font-size: 152px; word-spacing: 0px;"/></text>
+    <circle cy="75.332" cx="275" id="circle4212" style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" r="75"/>
+    <circle style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle4214" cx="475" cy="75.332" r="75"/>
+    <circle cy="475.332" cx="275" id="circle4216" style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" r="75"/>
+    <circle cy="275.332" cx="475" id="circle4246" style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" r="75"/>
+    <circle style="fill:#038ff4;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle4248" cx="75" cy="75.332" r="75"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#038ff4;stroke-width:45;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 275 75.332 L 75 275.332 L 275 483.864 L 475 275.332 L 275 75.332 Z" id="path4757"/>
+  </g>
+</svg>
